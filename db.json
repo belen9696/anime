@@ -2,7 +2,11 @@
   "anime": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Jujutsu Kaisen",
+      "gender": "Shonen",
+      "publicyear": 2020,
+      "studio": "MAPPA",
+      "score": 8
     },
     {
       "id": 2,
