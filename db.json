@@ -2,42 +2,42 @@
   "anime": [
     {
       "id": 1,
-      "title": "Jujutsu Kaisen"
-      "gender": "Shonen"
-      "publicyear": 2020
-      "studio": "MAPPA"
+      "title": "Jujutsu Kaisen",
+      "gender": "Shonen",
+      "publicyear": 2020,
+      "studio": "MAPPA",
       "score": 8
     },
     {
       "id": 2,
-      "title": "Haikyuu"
-      "gender": "Sport"
-      "publicyear": 2014
-      "studio": "Production I.G"
+      "title": "Haikyuu",
+      "gender": "Sport",
+      "publicyear": 2014,
+      "studio": "Production I.G",
       "score": 10
     },
     {
       "id": 3,
-      "title": "Shingeki no Kioyin"
-      "gender": "Gore"
-      "publicyear": 2013
-      "studio": "Wit Studio"
+      "title": "Shingeki no Kioyin",
+      "gender": "Gore",
+      "publicyear": 2013,
+      "studio": "Wit Studio",
       "score": 9
     },
     {
       "id": 4,
-      "title": "Tokyo Revenger"
-      "gender": "Science Fiction"
-      "publicyear": 2021
-      "studio": "Liden Films"
+      "title": "Tokyo Revenger",
+      "gender": "Science Fiction",
+      "publicyear": 2021,
+      "studio": "Liden Films",
       "score": 7
     },
     {
       "id": 5,
-      "title": "Black Clover"
-      "gender": "Shonen"
-      "publicyear": 2017
-      "studio": "Studio Pierrot"
+      "title": "Black Clover",
+      "gender": "Shonen",
+      "publicyear": 2017,
+      "studio": "Studio Pierrot",
       "score": 6
     }
   ]
