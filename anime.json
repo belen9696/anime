@@ -1,0 +1,24 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Jujutsu Kaisen"
+    },
+    {
+      "id": 2,
+      "title": "Haikyuu"
+    },
+    {
+      "id": 3,
+      "title": "Shingeki no Kioyin"
+    },
+    {
+      "id": 4,
+      "title": "Tokyo Revenger"
+    },
+    {
+      "id": 5,
+      "title": "Black Clover"
+    }
+  ]
+}
