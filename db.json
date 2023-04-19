@@ -6,7 +6,7 @@
       "gender": "Shonen"
       "publicDate": "03/10/2020"
       "studio": "MAPPA"
-      "score": "8"
+      "score": 8
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "gender": "Sport"
       "publicDate": "06/04/2014"
       "studio": "Production I.G"
-      "score": "10"
+      "score": 10
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "gender": "Gore"
       "publicDate": "06/04/2013"
       "studio": "Wit Studio"
-      "score": "9"
+      "score": 9
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "gender": "Science Fiction"
       "publicDate": "10/04/2021"
       "studio": "Liden Films"
-      "score": "7"
+      "score": 7
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "gender": "Shonen"
       "publicDate": "03/10/2017"
       "studio": "Studio Pierrot"
-      "score": "6"
+      "score": 6
     }
   ]
 }
